@@ -50,8 +50,8 @@ Leonardo AI：
 
 ## 📚 Materiais
 
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+- Imagens utilizadas em `https://github.com/anaribeiro54/prompts-recipe-to-create-a-ebook/`
+- ebook gerado durante as aulas em `https://github.com/anaribeiro54/prompts-recipe-to-create-a-ebook/`
 
 ## 🛠️ Instruções de execução
 
