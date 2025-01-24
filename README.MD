@@ -59,15 +59,6 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 ## 👨‍💻 Expert
 
-    />
-    <p>&nbsp&nbsp&nbspAna Ribeiro<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/anaribeiro54/">
-    GitHub</a>&nbsp;|&nbsp;
-</p>
-<br/><br/>
-<p>
-
 ---
 
 ⌨️ com 💜 por [Ana Ribeiro](https://github.com/anaribeiro54/)
