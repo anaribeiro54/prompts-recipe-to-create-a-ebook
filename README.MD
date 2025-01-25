@@ -18,7 +18,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/anaribeiro54/prompts-recipe-to-create-a-ebook/blob/main/e-book%20Superando%20desafios%20-%20minha%20trajet%C3%B3ria%20na%20an%C3%A1lise%20de%20dados.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/anaribeiro54/prompts-recipe-to-create-a-ebook/blob/main/e-book%20atualizado%20-%20Superando%20desafios%20-%20minha%20trajet%C3%B3ria%20na%20an%C3%A1lise%20de%20dados.pdf"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
