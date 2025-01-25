@@ -34,7 +34,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título de um ebook sobre o tema de análise de dados, o ebook é sobre superação de desafios na mudança de carreira para a área de análise de dados, o título deve ser épico e curto, poderoso mas não ser exagerado, me liste 5 variações de títulos                                                        |
-| conteúdo | Crie uma estrutura de tópicos detalhada sobre os capitúlos que podem compor este e-book. {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, sempre deixe um título sugestivo por tópico |
+| conteúdo | Crie uma estrutura de tópicos detalhada sobre os capítulos que podem compor este e-book. {REGRAS} Me faça perguntas cujas respostas poderiam compor o capítulo, sempre deixe um título sugestivo por tópico |
 
 
 Leonardo AI：
